@@ -1,0 +1,13 @@
+,jane123,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,Your username must between 6 and 10 digits,,,,,,,,,
+jane123,jane@123,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,No special characters allowed,,,,,,,,
+jane123,jane1,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,Password has to be minimum 6 characters,,,,,,,,
+jane123,jane123,,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,First name cannot be empty,,,,,,,
+jane123,jane123,jane,,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,Last name cannot be empty,,,,,,
+jane123,jane123,jane,doe,abcde67890,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,,Has to be digits,,,,,
+jane123,jane123,jane,doe,67890,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,,UtaID has to be 10 digits,,,,,
+jane123,jane123,jane,doe,1001678942,,7824503126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,,,Enter a valid email id,,,,
+jane123,jane123,jane,doe,1001678942,jane@gmail.com,abcde03126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,,,,Has to be digits,,,
+jane123,jane123,jane,doe,1001678942,jane@gmail.com,3126,300 Def Street,Arlington,Tx,67901,user,Please correct the following errors,,,,,,,Phone number has to be 10 digits,,,
+jane123,jane123,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,,Tx,67901,user,Please correct the following errors,,,,,,,,city cannot be empty,,
+jane123,jane123,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,,67901,user,Please correct the following errors,,,,,,,,,state cannot be empty,
+jane123,jane123,jane,doe,1001678942,jane@gmail.com,7824503126,300 Def Street,Arlington,Tx,,user,Please correct the following errors,,,,,,,,,,Has to be digits

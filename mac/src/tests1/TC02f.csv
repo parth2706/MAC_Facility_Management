@@ -1,0 +1,4 @@
+,,Please correct the following errors,Facility Type cannot be empty,
+abcde,,Please correct the following errors,Facility should of type: Multipurpose Rooms / Basketball Court / Volleyball Court /Soccer Gymnasium / Racquetball Court / Badminton Court / Table Tennis / Conference Room,
+Basketball Court,,Please correct the following errors,,facility name should be either of MR/IBCC/IVBC/SCG/RBC/BMC/TTI/CR type
+Basketball Court,IBCC-5,Please correct the following errors,,facility name already present

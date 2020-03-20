@@ -1,0 +1,16 @@
+1,,SW,30 min,sameDay,indoor,Facility Type cannot be empty,,Please correct the following errors
+4,,IBCC-9,30 min,sameDay,indoor,Facility Type cannot be empty,,Please correct the following errors
+7,,IBBC-5,30 min,sameDay,indoor,Facility Type cannot be empty,,Please correct the following errors
+2,swimming pool,IBCC-1,30 min,sameDay,indoor,Facility should of type: Multipurpose Rooms / Basketball Court / Volleyball Court /Soccer Gymnasium / Racquetball Court / Badminton Court / Table Tennis / Conference Room,,Please correct the following errors
+5,swimming pool,SW,30 min,sameDay,indoor,Facility should of type: Multipurpose Rooms / Basketball Court / Volleyball Court /Soccer Gymnasium / Racquetball Court / Badminton Court / Table Tennis / Conference Room,,Please correct the following errors
+8,swimming pool,IBBC-5,30 min,sameDay,indoor,Facility should of type: Multipurpose Rooms / Basketball Court / Volleyball Court /Soccer Gymnasium / Racquetball Court / Badminton Court / Table Tennis / Conference Room,,Please correct the following errors
+3,Basketball court,IBCC-10,30 min,sameDay,indoor,,,
+6,Basketball court,SW,30 min,sameDay,indoor,,facility name should be either of MR/IBCC/IVBC/SCG/RBC/BMC/TTI/CR type,Please correct the following errors
+9,Basketball court,IBCC-5,30 min,sameDay,indoor,,facility name already present,Please correct the following errors
+10,Multipurpose Rooms,MR-10,30 min,sameDay,indoor,,,
+11,Volleyball Court,IVBC-10,30 min,sameDay,indoor,,,
+12,Soccer Gymnasium,SCG-10,30 min,sameDay,indoor,,,
+13,Racquetball Court,RBC-10,30 min,sameDay,indoor,,,
+14,Badminton Court,BMC-10,30 min,sameDay,indoor,,,
+15,Table Tennis,TTI-10,30 min,sameDay,indoor,,,
+16,Conference Room,CR-10,30 min,sameDay,indoor,,,
